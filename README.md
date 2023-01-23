@@ -12,4 +12,4 @@ structuring:
 - all the tests are under the tests directory to be picked up by pytest and each test imports the needed modules and functions.
 - the workflow automating all of this is in the .github/workflows directory and is triggered by a push to the master branch
 
-This project has been tested automatically with a Git workflow
+This project has been tested automatically with a Git Actions workflow
