@@ -15,3 +15,5 @@ structuring:
 This project has been tested automatically with a Git workflow
 
 ![example event parameter](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg?event=push)
+
+!\[my badge\](https://badgen.net/badge/Createdby/RJA/orange?icon=gitlab)
