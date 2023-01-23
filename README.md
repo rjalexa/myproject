@@ -1,6 +1,6 @@
 # myproject
 
-![my badge](https://badgen.net/badge/Createdby/RJA/orange?icon=gitlab) ![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg)
+![my badge](https://badgen.net/badge/Createdby/RJA/orange?icon=gitlab) ![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/rjalexa/myproject/issues)
 
 Python Continuous Integration with GitHub Actions demo
 
