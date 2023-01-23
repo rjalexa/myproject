@@ -1,6 +1,8 @@
 # myproject
 
-Python CI test
+![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg)
+
+Python Continuous Integration with GitHub Actions demo
 
 This minimal example is to show how to setup a project directory for a python project
 structuring:
@@ -11,5 +13,3 @@ structuring:
 - the workflow automating all of this is in the .github/workflows directory and is triggered by a push to the master branch
 
 This project has been tested automatically with a Git workflow
-
-![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg)
