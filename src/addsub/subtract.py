@@ -1,5 +1,6 @@
-""" subtracts b from a """
+""" subtracts first from second """
 
 
-def subtract(a, b):
-    return a - b
+def subtract(first, second):
+    """subtracts first number from second"""
+    return second - first
