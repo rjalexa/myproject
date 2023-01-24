@@ -2,7 +2,7 @@
 
 ## Live status:
 
-![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg) [![codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject)
+![Main workflow](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg) [![Codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject)
 
 ## Tooling
 
