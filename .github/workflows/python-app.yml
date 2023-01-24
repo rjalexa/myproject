@@ -18,7 +18,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v3
     - name: Set up Python 3.10
       uses: actions/setup-python@v3
       with:
@@ -35,3 +34,9 @@ jobs:
     - name: Test with pytest
       run: |
         pytest
+    - name: pytest coverage
+      run:
+        pytest --cov=./ --cov-report=xml:tests/coverage.xml
+    - name: Upload coverage to Codecov
+      uses: codecov/codecov-action@v3
+    
