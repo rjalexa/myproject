@@ -1,4 +1,4 @@
-# myproject
+# myproject: a demo python repository with GitHub actions for code quality
 
 ## Live status:
 
