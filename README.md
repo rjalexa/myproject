@@ -1,8 +1,18 @@
 # myproject
 
-![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg) [![codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject) [![contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat)](https://github.com/rjalexa/myproject/issues) ![Linter](https://img.shields.io/badge/Linting-pylint-orange) ![Formatter](https://img.shields.io/badge/Formatter-black-orange) ![my badge](https://badgen.net/badge/Createdby/RJA/orange?icon=gitlab)
+## Live status:
 
-Python Continuous Integration with GitHub Actions demo
+![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg) [![codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject)
+
+---
+
+## Tooling
+
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat)](https://github.com/rjalexa/myproject/issues) ![Linter](https://img.shields.io/badge/Linting-pylint-orange) ![Formatter](https://img.shields.io/badge/Formatter-black-orange) ![my badge](https://badgen.net/badge/Createdby/RJA/orange?icon=gitlab)
+
+---
+
+### Python Continuous Integration with GitHub Actions demo
 
 This minimal example is to show how to setup a project directory for a python project
 structuring:
