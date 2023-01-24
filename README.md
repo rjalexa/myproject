@@ -4,8 +4,6 @@
 
 ![Build Status](https://github.com/rjalexa/myproject/actions/workflows/python-app.yml/badge.svg) [![codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject)
 
----
-
 ## Tooling
 
 [![contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat)](https://github.com/rjalexa/myproject/issues) ![Linter](https://img.shields.io/badge/Linting-pylint-orange) ![Formatter](https://img.shields.io/badge/Formatter-black-orange) ![my badge](https://badgen.net/badge/Createdby/RJA/orange?icon=gitlab)
