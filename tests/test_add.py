@@ -1,6 +1,7 @@
 from src.addsub.add import add
 
+
 def test_add():
-    """ test add function """
+    """test add function"""
     assert add(2, 3) == 5
-    assert add('space', 'ship') == 'spaceship'
+    assert add("space", "ship") == "spaceship"
