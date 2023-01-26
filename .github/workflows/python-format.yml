@@ -10,7 +10,7 @@ permissions:
   contents: read
 
 jobs:
-  pylint:
+  black:
     runs-on: ubuntu-latest
     name: Format python
     
@@ -30,7 +30,22 @@ jobs:
         if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
 
     - name: Format with black
-      uses: jpetrucciani/black-check@master
+      uses: psf/black@stable
+      id: action_black
       with:
-        path: './src'
-        black_flags: '--exclude ./env/'
+        options: "--check --verbose"
+        src: "./src"
+
+    - name: Create Pull Request
+      if: steps.action_black.outputs.is_formatted == 'true'
+      uses: peter-evans/create-pull-request@v3
+      with:
+        token: ${{ secrets.GITHUB_TOKEN }}
+        title: "Format Python code with psf/black push"
+        commit-message: ":art: Format Python code with psf/black"
+        body: |
+          There appear to be some python formatting errors in ${{ github.sha }}. This pull request
+          uses the [psf/black](https://github.com/psf/black) formatter to fix these issues.
+        base: ${{ github.head_ref }} # Creates pull request onto pull request or commit branch
+        branch: actions/black
+        
