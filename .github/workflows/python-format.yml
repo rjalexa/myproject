@@ -1,4 +1,4 @@
-name: Python formatting
+name: black-action
 
 on:
   push:
@@ -33,7 +33,7 @@ jobs:
       uses: psf/black@stable
       id: action_black
       with:
-        options: "--check --verbose"
+        options: "--verbose"
         src: "./src"
 
     - name: Create Pull Request
