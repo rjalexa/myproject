@@ -2,7 +2,7 @@
 
 ## Live status:
 
-![Testing](https://github.com/rjalexa/myproject/actions/workflows/python-test.yml/badge.svg) [![Codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject) ![Linting](https://github.com/rjalexa/myproject/actions/workflows/python-lint.yml/badge.svg)
+![Testing](https://github.com/rjalexa/myproject/actions/workflows/python-test.yml/badge.svg) [![Codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject) ![Linting](https://github.com/rjalexa/myproject/actions/workflows/python-lint.yml/badge.svg) ![Formatting](https://github.com/rjalexa/myproject/actions/workflows/python-format.yml/badge.svg)
 
 ## Tooling
 
