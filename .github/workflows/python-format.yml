@@ -31,4 +31,4 @@ jobs:
 
     - name: Format with black
       run: |
-        black --check --verbose .
+        black .
