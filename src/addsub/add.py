@@ -1,8 +1,6 @@
 """ demo simple module with function """
 
 
-def add(first, second):
-    """adds (int) or concatenates (str) two arguments"""
+def add(first: int, second: int) -> int:
+    """adds (int)"""
     return first + second
-
-print sbajato
