@@ -3,4 +3,4 @@
 
 def add(first: int, second: int) -> int:
     """adds (int)"""
-    return                first + second
+    return first + second
