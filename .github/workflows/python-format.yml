@@ -1,4 +1,4 @@
-name: Python formatting
+name: Formatting
 
 on:
   push:
