@@ -2,4 +2,5 @@
 
 
 def unformat(name: str) -> str:
-    print("this is unformatted")
+    """now this has been formatted by black"""
+    print(f"this {name} is unformatted")
