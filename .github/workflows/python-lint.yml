@@ -12,7 +12,8 @@ permissions:
 jobs:
   build:
     runs-on: ubuntu-latest
-
+    name: Lint python
+    
     steps:
     - name: Check out
       uses: actions/checkout@v3
