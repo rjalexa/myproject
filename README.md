@@ -6,7 +6,7 @@
 
 ## Tooling
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-orange.svg?style=flat)](https://github.com/rjalexa/myproject/issues) [![linting: pylint](https://img.shields.io/badge/linting-pylint-yellowgreen)](https://github.com/PyCQA/pylint) ![Formatter](https://img.shields.io/badge/Formatter-black-black) ![my badge](https://badgen.net/badge/Createdby/RJA/orange?icon=gitlab)
+[![contributions welcome](https://img.shields.io/badge/contributions-welcome-black.svg?style=flat)](https://github.com/rjalexa/myproject/issues) [![linting: pylint](https://img.shields.io/badge/linting-pylint-black)](https://github.com/PyCQA/pylint) ![Formatter](https://img.shields.io/badge/Formatter-black-black) ![my badge](https://badgen.net/badge/Createdby/RJA/black?icon=gitlab)
 
 ---
 
