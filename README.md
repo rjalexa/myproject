@@ -2,11 +2,11 @@
 
 ## Live status:
 
-![Testing](https://github.com/rjalexa/myproject/actions/workflows/python-test.yml/badge.svg) [![Codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject) ![Linting](https://github.com/rjalexa/myproject/actions/workflows/python-lint.yml/badge.svg) ![Formatting](https://github.com/rjalexa/myproject/actions/workflows/python-format.yml/badge.svg)
+![Testing](https://github.com/rjalexa/myproject/actions/workflows/python-test.yml/badge.svg) [![Codecov](https://codecov.io/gh/rjalexa/myproject/branch/main/graph/badge.svg?token=1F2VGHFJ3S)](https://codecov.io/gh/rjalexa/myproject) ![Linting](https://github.com/rjalexa/myproject/actions/workflows/python-lint.yml/badge.svg) ![Formatting](https://github.com/rjalexa/myproject/actions/workflows/python-format.yml/badge.svg)[![Open issues](https://img.shields.io/github/issues/rjalexa/myproject)](https://github.com/rjalexa/myproject/issues)
 
 ## Tooling
 
-[![contributions welcome](https://img.shields.io/badge/contributions-welcome-black.svg?style=flat)](https://github.com/rjalexa/myproject/issues) [![linting: pylint](https://img.shields.io/badge/linting-pylint-black)](https://github.com/PyCQA/pylint) ![Formatter](https://img.shields.io/badge/Formatter-black-black) ![my badge](https://badgen.net/badge/Createdby/RJA/black?icon=gitlab)
+[![linting: pylint](https://img.shields.io/badge/linting-pylint-black)](https://github.com/PyCQA/pylint) ![Formatter](https://img.shields.io/badge/Formatter-black-black) ![my badge](https://badgen.net/badge/Createdby/RJA/black?icon=gitlab)
 
 ---
 
