@@ -27,7 +27,7 @@ jobs:
 
     - name: pytest testing
       run: |
-        pytest ./src
+        pytest tests
         
     - name: pytest coverage
       run:
